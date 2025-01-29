@@ -1,0 +1,11 @@
+{
+    "build": {
+      "base": "my-strapi-app",
+      "commands": [
+        "npm install",
+        "npm run build"
+      ]
+    },
+    "start": "npm start"
+  }
+  
