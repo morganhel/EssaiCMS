@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "temoignages",
+  "info": {
+    "singularName": "temoignage",
+    "pluralName": "temoignages",
+    "displayName": "Témoignages"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Client": {
+      "type": "string"
+    },
+    "Temoignage": {
+      "type": "blocks"
+    },
+    "Note": {
+      "type": "integer"
+    }
+  }
+}
