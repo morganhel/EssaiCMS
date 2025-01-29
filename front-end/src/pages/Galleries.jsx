@@ -67,6 +67,7 @@ function Galeries() {
   return (
     <div>
       <h1>Galeries</h1>
+      <p>github me saouuuuule</p>
 
       {/* Filtres par catégories */}
       <div>
